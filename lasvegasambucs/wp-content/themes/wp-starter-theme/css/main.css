@@ -1,0 +1,24 @@
+/* COLORS */
+.green{color: green;}
+.bg-green{background-color: green;}
+
+/* DEFAULTS */
+:root {font-size: 16pt;}
+* {font-family: 'Open Sans', sans-serif;color: #333;font-size: 1rem;}
+body,html {margin: 0;}
+img {max-width: 100%;}
+
+/* TREE STYLING */
+
+/* Footer */
+footer {
+  height: 50px;
+  font-size: 14px;
+  background: #d71921;
+  color: white;
+  text-align: center;
+}
+
+footer h4 {
+  padding-top: 6px;
+}
